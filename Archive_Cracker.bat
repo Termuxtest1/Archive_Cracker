@@ -1,7 +1,7 @@
 @echo off
 Title Archive_Cracker
 color 02
-echo ""Created By @TermuxTest1"
+echo "Created By @TermuxTest1"
 
 if not exsist "C:\Program Files\7-Zip" (
    echo 7-Zip not installed!
