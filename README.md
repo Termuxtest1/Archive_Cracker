@@ -16,4 +16,4 @@ This is not an original File This is a modified of this file https://github.com/
 Originally Created by EbilaMan
 
 
-Modifications wre done in order to make it more easy,Handy and to provide a good look.
+Modifications are done in order to make it more easy,Handy and to provide a good look.
